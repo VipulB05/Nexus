@@ -3,7 +3,7 @@ import './nav.css'
 
 const Navbar = () => {
   return (
-    <div className='bgimg w-full flex flex-row'>
+    <div className='bgimg w-full flex flex-row bg-black'>
       <div className='2xl:h-32 w-1/2 ml-[5vh] mt-4'>
         <img src='nexus.png'></img>
       </div>
