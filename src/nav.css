@@ -1,0 +1,16 @@
+.bgimg {
+    background-image: url('\img.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgbackimg {
+    background: linear-gradient(to bottom,#000000, #000b1e, #00122e, #001c4a);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+  }
+  
